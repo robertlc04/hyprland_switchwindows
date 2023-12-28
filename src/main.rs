@@ -1,9 +1,6 @@
 use hyprland::data::*;
-use hyprland::dispatch::Dispatch;
-use hyprland::dispatch::DispatchType;
-use hyprland::dispatch::WindowIdentifier;
+use hyprland::dispatch::{Dispatch, DispatchType, WindowIdentifier};
 use hyprland::prelude::*;
-//use hyprland::dispatch::*;
 use hyprland::shared::Address;
 use hyprland::Result;
 
